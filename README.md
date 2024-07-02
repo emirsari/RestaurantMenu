@@ -31,16 +31,16 @@ Simple overview of use/purpose.
       <a href="#description">Description</a>
     </li>
     <li>
-      <a href="#">Getting Started</a>
+      <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#">Dependencies</a></li>
-        <li><a href="#">Installation</a></li>
-        <li><a href="#">Execution</a></li>
+        <li><a href="#dependencies">Dependencies</a></li>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#execution">Execution</a></li>
       </ul>
     </li>
-    <li><a href="#">Help</a></li>
-    <li><a href="#">Authors</a></li>
-    <li><a href="#">Acknowledgments</a></li>
+    <li><a href="#help">Help</a></li>
+    <li><a href="#authors">Authors</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
