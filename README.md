@@ -48,6 +48,8 @@ Simple overview of use/purpose.
 <!--
 An in-depth paragraph about your project and overview of use.
 -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <h2>Getting Started</h2>
 
 <h3>Dependencies</h3>
@@ -68,6 +70,8 @@ An in-depth paragraph about your project and overview of use.
 code blocks for commands
 ```
 -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <h2>Help</h2>
 <!--
 Any advise for common problems or issues.
@@ -75,6 +79,7 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ```
 -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2>Authors</h2>
 <!--
@@ -82,6 +87,8 @@ Contributors names and contact info
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <h2>Acknowledgments</h2>
 <!--
 Inspiration, code snippets, etc.
@@ -91,3 +98,4 @@ Inspiration, code snippets, etc.
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
