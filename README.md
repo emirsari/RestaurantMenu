@@ -28,7 +28,7 @@ Simple overview of use/purpose.
   <summary><h2>Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#description">Description</a>
+      <a href="#about">About</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -44,10 +44,13 @@ Simple overview of use/purpose.
   </ol>
 </details>
 
-<h2>Description</h2>
+<h2>About</h2>
 <!--
 An in-depth paragraph about your project and overview of use.
 -->
+
+* [![React][React.js]][React-url]
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2>Getting Started</h2>
@@ -99,3 +102,6 @@ Inspiration, code snippets, etc.
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
