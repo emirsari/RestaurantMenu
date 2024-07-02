@@ -28,7 +28,7 @@ Simple overview of use/purpose.
   <summary><h2>Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#">Description</a>
+      <a href="#description">Description</a>
     </li>
     <li>
       <a href="#">Getting Started</a>
