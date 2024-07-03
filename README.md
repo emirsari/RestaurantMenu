@@ -49,7 +49,10 @@ Simple overview of use/purpose.
 An in-depth paragraph about your project and overview of use.
 -->
 
-* [![React][React.js]][React-url]
+<p>  
+  <img height="64" width="64" src="https://cdn.simpleicons.org/openjdk/#000000" />
+</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,5 +106,4 @@ Inspiration, code snippets, etc.
 -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+
