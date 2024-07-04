@@ -50,9 +50,14 @@ An in-depth paragraph about your project and overview of use.
 -->
 
 <p>  
-  <img align="left" alt="Java | OpenJDK" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=000000&style=plastic" height="32">
-  <img align="center" alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=2C2255&style=plastic" height="32">
+  This project features a console application for an interactable restaurant menu, developed in Java using Eclipse IDE. The menu includes 58 distinct items: 33 foods and 25 drinks. Undertaken as part of the "Data Structures and Algorithms-II" 
+  course, the project aimed to reinforce practical application of data structures and algorithmic thinking.
+  <br>
   
+  <p align="center"> 
+    <img alt="Java | OpenJDK" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=000000&style=plastic" height="32"> 
+    <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=2C2255&style=plastic" height="32">
+  </p>
 </p>
 
 
