@@ -50,9 +50,9 @@ An in-depth paragraph about your project and overview of use.
 -->
 
 <p>  
+  <img align="left" alt="Java | OpenJDK" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=000000&style=plastic" height="32">
+  <img align="center" alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=2C2255&style=plastic" height="32">
   
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=000000&style=plastic)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=2C2255&style=plastic)
 </p>
 
 
