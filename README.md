@@ -50,7 +50,9 @@ An in-depth paragraph about your project and overview of use.
 -->
 
 <p>  
-  <img height="64" width="64" src="https://cdn.simpleicons.org/openjdk/#000000" />
+  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=000000&style=plastic)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=2C2255&style=plastic)
 </p>
 
 
@@ -105,5 +107,4 @@ Inspiration, code snippets, etc.
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
