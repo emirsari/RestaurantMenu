@@ -85,13 +85,10 @@ An in-depth paragraph about your project and overview of use.
     <li>Run the application using the command: java -jar RestaurantMenu.jar. </li>
   </ol>
 <h3>Execution</h3>
-<!--
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
--->
+<ol>
+    <li>After installation, run the command java -jar RestaurantMenu.jar in the terminal. </li>
+    <li>Follow the on-screen instructions to interact with the menu. </li>
+  </ol>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2>Help</h2>
