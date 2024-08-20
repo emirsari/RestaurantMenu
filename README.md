@@ -92,12 +92,16 @@ An in-depth paragraph about your project and overview of use.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2>Help</h2>
-<!--
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
--->
+ <ol>
+    <li><b>Issue:</b> The console screen displays garbled text. </li>
+    <ul><li><b>Solution:</b> Ensure your terminal supports ANSI color codes, or modify the application settings to disable color coding. </li></ul>
+    <br>
+    <li><b>Issue:</b> The program does not run due to Java version issues. </li>
+    <ul><li><b>Solution:</b> Verify that Java 16 or a compatible version is installed and configured correctly. </li></ul>
+    <br>
+    <li><b>Issue:</b> Difficulty in understanding how to place an order. </li>
+    <ul><li><b>Solution:</b> Follow the on-screen prompts carefully, or refer to the source code documentation for a detailed breakdown of the order placement process. </li></ul>
+  </ol>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2>Authors</h2>
