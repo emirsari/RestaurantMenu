@@ -106,10 +106,12 @@ An in-depth paragraph about your project and overview of use.
 
 <h2>Authors</h2>
 <!--
-Contributors names and contact info
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Provide more in-depth information as well as GitHub profile links
 -->
+<ul>
+    <li> Emir Sarı </li>
+    <li> Arda Özdemir </li>
+</ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2>Acknowledgments</h2>
