@@ -78,10 +78,12 @@ An in-depth paragraph about your project and overview of use.
   </ul>
 
 <h3>Installation</h3>
-<!--
-* How/where to download your program
-* Any modifications needed to be made to files/folders
--->
+  <ol>
+    <li>Ensure that Java 16 is installed on your system. </li>
+    <li>Download the RestaurantMenu.jar file. </li>
+    <li>Open a terminal and navigate to the directory where the JAR file is located. </li>
+    <li>Run the application using the command: java -jar RestaurantMenu.jar. </li>
+  </ol>
 <h3>Execution</h3>
 <!--
 * How to run the program
