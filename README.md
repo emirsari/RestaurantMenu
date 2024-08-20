@@ -50,8 +50,11 @@ An in-depth paragraph about your project and overview of use.
 -->
 
 <p>  
-  This project features a console application for an interactable restaurant menu, developed in Java using Eclipse IDE. The menu includes 58 distinct items: 33 foods and 25 drinks. Undertaken as part of the "Data Structures and Algorithms-II" 
-  course, the project aimed to reinforce practical application of data structures and algorithmic thinking.
+&emsp; The "Restaurant Menu" project is a console application designed to simulate a restaurant menu experience. It provides users with four main options: displaying the menu, searching for items, placing an order, and exiting the program. The menu contains 58 distinct items, categorized into 33 foods and 25 drinks, with detailed information about each item, such as ingredients, kind, content warnings, and cost.
+
+&emsp; The project was developed using Java 16 and Eclipse IDE 4.26.0. It consists of 15 classes, including 3 enum classes and 11 general-purpose classes. The core data structures used are Binary Search Trees for storing menu items and Linked Lists for managing ingredients and content warnings.
+
+&emsp; This project was a collaborative effort between two developers, focusing on different aspects of the menu, with shared responsibilities for data structure integration.
   <br>
   
   <p align="center"> 
