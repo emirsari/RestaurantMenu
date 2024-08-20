@@ -67,12 +67,16 @@ An in-depth paragraph about your project and overview of use.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h2>Getting Started</h2>
+<p>  
+&emsp; To use this console application, download and run the executable JAR file provided. Once launched, the user interacts with the menu via the console, selecting options to view the menu, search for specific items, place orders, or exit the application.
+</p>
 
 <h3>Dependencies</h3>
-<!--
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
--->
+  <ul>
+    <li> Java 16: Required to compile and run the application. </li>
+    <li> Eclipse IDE 4.26.0: Used during development, but not required for execution. </li>
+  </ul>
+
 <h3>Installation</h3>
 <!--
 * How/where to download your program
