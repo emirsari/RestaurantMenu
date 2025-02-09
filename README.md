@@ -109,8 +109,8 @@ An in-depth paragraph about your project and overview of use.
 Provide more in-depth information as well as GitHub profile links
 -->
 <ul>
-    <li> Emir Sarı </li>
-    <li> Arda Özdemir </li>
+    <li> Emir Sarı <a href="https://github.com/emirsari"> @emirsari</a> </li>
+    <li> Arda Özdemir <a href="https://github.com/tearsinthegame"> @tearsinthegame</a> </li>
 </ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
